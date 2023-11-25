@@ -1,0 +1,14 @@
+body
+{
+	background: lavender;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #9d83af;
+padding: 10px;
+float: none;
+text-align: left;
+}
